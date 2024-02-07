@@ -11,5 +11,5 @@ const Item = ({info}) => {
         </Link>
     )
 }   
-   
+
 export default Item;
